@@ -18,7 +18,7 @@ This project provides a robust Authentication API built with ASP.NET Core. It su
 ### Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repository/authentication-api.git
+   git clone [https://github.com/your-repository/authentication-api.git](https://github.com/KeremEski/ASP.Net-Authentication-Identity-JWT.git)
    cd authentication-api
    ```
 
@@ -91,5 +91,5 @@ Feel free to fork this repository and submit pull requests. Feedback and suggest
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-For any issues or questions, please contact [your_email@example.com].
+For any issues or questions, please contact "kerem_eski@hotmail.com".
 
